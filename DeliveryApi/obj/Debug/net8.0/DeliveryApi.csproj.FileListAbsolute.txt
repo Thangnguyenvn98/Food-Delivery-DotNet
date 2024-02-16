@@ -43,3 +43,4 @@ C:\Users\Thang\Documents\FoodDelivery\api\DeliveryApi\bin\Debug\net8.0\System.Id
 C:\Users\Thang\Documents\FoodDelivery\api\DeliveryApi\bin\Debug\net8.0\System.Security.Permissions.dll
 C:\Users\Thang\Documents\FoodDelivery\api\DeliveryApi\obj\Debug\net8.0\DeliveryApi.csproj.AssemblyReference.cache
 C:\Users\Thang\Documents\FoodDelivery\api\DeliveryApi\obj\Debug\net8.0\DeliveryApi.csproj.CopyComplete
+c:\Users\Thang\Documents\FoodDelivery\api\DeliveryApi\obj\Debug\net8.0\DeliveryApi.sourcelink.json

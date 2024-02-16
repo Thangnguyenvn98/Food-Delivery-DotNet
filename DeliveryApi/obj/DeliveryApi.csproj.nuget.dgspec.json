@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thang\\Documents\\FoodDelivery\\api\\DeliveryApi\\DeliveryApi.csproj": {}
+    "c:\\Users\\Thang\\Documents\\FoodDelivery\\api\\DeliveryApi\\DeliveryApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thang\\Documents\\FoodDelivery\\api\\DeliveryApi\\DeliveryApi.csproj": {
+    "c:\\Users\\Thang\\Documents\\FoodDelivery\\api\\DeliveryApi\\DeliveryApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thang\\Documents\\FoodDelivery\\api\\DeliveryApi\\DeliveryApi.csproj",
+        "projectUniqueName": "c:\\Users\\Thang\\Documents\\FoodDelivery\\api\\DeliveryApi\\DeliveryApi.csproj",
         "projectName": "DeliveryApi",
-        "projectPath": "C:\\Users\\Thang\\Documents\\FoodDelivery\\api\\DeliveryApi\\DeliveryApi.csproj",
+        "projectPath": "c:\\Users\\Thang\\Documents\\FoodDelivery\\api\\DeliveryApi\\DeliveryApi.csproj",
         "packagesPath": "C:\\Users\\Thang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thang\\Documents\\FoodDelivery\\api\\DeliveryApi\\obj\\",
+        "outputPath": "c:\\Users\\Thang\\Documents\\FoodDelivery\\api\\DeliveryApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thang\\AppData\\Roaming\\NuGet\\NuGet.Config",
